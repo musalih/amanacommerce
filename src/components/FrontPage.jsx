@@ -650,20 +650,25 @@ export default function Example() {
                 <div className="mx-auto max-w-2xl py-24 lg:max-w-none lg:py-64">
                   <div className="lg:pr-16">
                     <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl xl:text-6xl">
-                      Focus on what matters
+                    Priced Right.
+                    </h1>
+                    <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl xl:text-6xl">
+                    Easy To Use.
+                    </h1>
+                    <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl xl:text-6xl">
+                    Quality Products.
                     </h1>
                     <p className="mt-4 text-xl text-gray-600">
-                      All the charts, datepickers, and notifications in the world can't beat checking off some items on
-                      a paper card.
+                    Amana brand delivers on value.
                     </p>
-                    <div className="mt-6">
+                    {/* <div className="mt-6">
                       <a
                         href="#"
                         className="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 font-medium text-white hover:bg-indigo-700"
                       >
                         Shop Productivity
                       </a>
-                    </div>
+                    </div> */}
                   </div>
                 </div>
               </div>
